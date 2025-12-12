@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anthomonton/anthomonton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    🎓 Bachelor in Software Engineering at <strong>ÉTS</strong><br>
+    💻 I work with <strong>C#</strong> and <strong>JavaScript</strong>, and I enjoy automation and web scraping projects in <strong>Python</strong>.
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    🌲 Outdoors enthusiast — camping, hiking/trekking, kayaking 🛶<br>
+    🥁 Musician — drummer
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anthomonton&color=green&style=flat&label=Hit+count" alt="Profile Views" />
+  </p>
+
+</div>
