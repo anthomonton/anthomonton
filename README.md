@@ -1,17 +1,12 @@
 <div align="center">
 
-  <p>
-    🎓 Bachelor in Software Engineering at <strong>ÉTS</strong><br>
-    💻 I work with <strong>C#</strong> and <strong>JavaScript</strong>, and I enjoy automation and web scraping projects in <strong>Python</strong>.
-  </p>
+🎓 **Bachelor** in **Software Engineering** at **ÉTS**  
+💻 I work with **C#** and **JavaScript**  
+🛠️ Personal projects: automation, web scraping in **Python**, **Raspberry Pi** tinkering, and **home server (homelab)** setups  
 
-  <p>
-    🌲 Outdoors enthusiast — camping, hiking/trekking, kayaking 🛶<br>
-    🥁 Musician — drummer
-  </p>
+🌲 Outdoors enthusiast: camping, hiking/trekking, kayaking 🛶  
+🥁 Musician: drummer  
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=anthomonton&color=green&style=flat&label=Hit+count" alt="Profile Views" />
-  </p>
+![Profile Views](https://komarev.com/ghpvc/?username=anthomonton&color=green&style=flat&label=Hit+count)
 
 </div>
